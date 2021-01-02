@@ -2,7 +2,7 @@
 Private Room
 ************
 
-.. note:: This is not to be confused with PrivateGroupRoom! PrivateGroupRoom is for private non-group rooms, whilst PrivateRoom is private non-group rooms. 
+.. note:: This is not to be confused with PrivateGroupRoom! PrivateGroupRoom is for private non-group rooms, whilst PrivateRoom is for private group rooms. 
 
 .. attribute:: user
 
